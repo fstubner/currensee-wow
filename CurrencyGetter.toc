@@ -1,7 +1,0 @@
-## Interface: 80300
-## Title: CurrencyGetter
-## Notes: Provides slash commands to greet other players
-## SavedVariables: CG_PearlCount CG_HeartCount CG_WarCount CG_IlvlCount CG_SmCount
-## SavedVariablesPerCharacter: 
-
-core.lua
