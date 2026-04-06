@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Currensee
+## Notes: Track Midnight currencies and item level across all your characters.
+## Version: 2.0.0
+## Author: fstubner
+## SavedVariables: Currensee_Data
+
+Currensee.lua
